@@ -11,3 +11,5 @@ function fetchData(url) {
         }, 4000)
     })
 }
+
+fetchData("www.google.com");
